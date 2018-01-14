@@ -19,6 +19,32 @@ div {
 	text-align:left;
 	height:100vh;}
 
-.coverphoto {
-	background-size:cover;
+li a:hover {
+    background-color: pink;
+}
+
+.quote {
+	text-align:center;
+	font-size:25;
+	font-style:oblique;
+	font-family:Georgia;
+}
+
+.pagename {
+	color: #Ff0066;
+	font-size:30;
+	font-family:Georgia;
+}
+
+.subheading {
+	color:#283739;
+}
+
+.fa{
+	text-align:center;
+}
+
+.emailme{
+	text-align:left;
+	font-size:12;
 }
